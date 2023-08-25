@@ -1,0 +1,2 @@
+## Download testdata
+cryosparcm downloadtest
